@@ -9,7 +9,7 @@ permalink: /planeacion_colaborativa/publicaciones/
 Publicaciones
 -------------
 
-- Eakin, H., Bojórquez-Tapia, L., Janssen, M. A., Georgescu, M., Manuel-Navarrete, M., D. M., Vivoni, E. R., Escalante, A. E., Baeza-Castro, A., Mazari-Hiriart, M., y Lerner, A. M. (2017). Opinion: Urban resilience efforts must consider social and political forces. *PNAS*, *114*, 186-189. doi:10.1073/pnas.1620081114.
+- Eakin, H., Bojórquez-Tapia, L., Janssen, M. A., Georgescu, M., Manuel-Navarrete, M., D. M., Vivoni, E. R., Escalante, A. E., Baeza-Castro, A., Mazari-Hiriart, M., y Lerner, A. M. (2017). Opinion: Urban resilience efforts must consider social and political forces. *PNAS*, *114*, 186-189. doi:10.1073/pnas.1620081114..
 
 - Eakin, H., Lerner, A. M., Manuel-Navarrete, D., Hernández-Aguilar, B., Martínez-Canedo, A., Tellman, B., Charli-Joseph, L., Fernández-Álvarez, R., y Bojórquez-Tapia, L. (2016). Adapting to risk and perpetuating poverty: Household’s strategies for managing flood risk and water scarcity in Mexico City. *Environmental Science & Policy*, *66*, 324-333. [Consultar artículo](http://dx.doi.org/10.1016/j.envsci.2016.06.006)
 
