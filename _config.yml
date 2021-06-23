@@ -3,27 +3,37 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-url: "http://ovisnigra.github.io/sostenibilidad-unam.github.io/"
+url: "http://lancis.ecologia.unam.mx/"
 baseurl: "/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Sergio Bourguet
+title: LANCIS
 
 # Short description of your site
-description: CV y portafolios Segio Bourguet
+description: Laboratorio Nacional de Ciencias de la Sostenibilidad
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Currículum: cv
-  Portafolio:
-    - Selección: "sel-portafolio"
-    - Descargar PDF: "descargar-portafolio"
-    Contacto: "contacto"
-# nav-search: "search" # tomado del sitio del autor del tema
+  Acerca del Lancis:
+    - Personal: "personal"
+    - Semblanza: "semblanza"
+    - Sistema de Gestión de CAlidad: "SGC"
+    - Nuestras redes: "nuestras-redes"
+  Actividades:
+    - Investigación e Innovación: "investigacion"
+    - Desarrollo de Proyectos: "proyectos"
+    - Posgrado: "posgrado"
+    - Creación de Capacidades: "capacidades"
+  Infraestructura:
+    - Laboratorios: "laboratorios"
+    - Anfiteatro: "anfiteatro"
+    - Supercómputo: "cluster"
+  Contacto: "ubicacion"
+nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -39,16 +49,21 @@ avatar: "/img/logo_solo.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: SBC
-  email: "sbourguet@gmail.com"
+  name: LANCIS
+  email: "paola.garcia@ecologia.unam.mx"
 #  facebook: LANCISUNAM  # eg. daattali
-  github: ovisnigra   # eg. daattali
-# twitter: ovisnigra    # eg. daattali
+  github: sostenibilidad-unam    # eg. daattali
+# twitter:    # eg. daattali
+# reddit: yourname    # eg. daattali
+# google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
 # linkedin: yourname  # eg. daattali
+# xing: yourname      # eg. daattali
+# stackoverflow: yourlink  # eg. "3943160/daattali"
+# snapchat: yourname  # eg. daattali
 # instagram: yourname # eg. daattali
 # youtube: yourlink   # eg. user/daattali or channel/daattali
 # spotify: yourname   # eg. daattali
-  telephone: 55 1341 2374   # eg. +14159998888
+# telephone: yourphone   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
@@ -77,7 +92,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ovisnigra.github.io/sostenibilidad-unam.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "lancis.ecologia.unam.mx"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
